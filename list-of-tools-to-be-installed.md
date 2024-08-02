@@ -25,3 +25,6 @@ List of Tools to be Installed
 
 8. Install Pandas
    $ pip install pandas
+
+9. Install Sckit Learn
+   $ pip install scikit-learn
