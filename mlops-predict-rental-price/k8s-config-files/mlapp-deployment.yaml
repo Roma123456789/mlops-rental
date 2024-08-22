@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: mlapp-container
-          image: igorromaric/mlapp
+          image: igorromaric/mlappredict
           ports:
             - containerPort: 5000
